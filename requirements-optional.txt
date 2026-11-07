@@ -1,0 +1,2 @@
+# Optional: Apache Spark engine (needs Java 8/11/17/21 installed)
+pyspark>=3.5

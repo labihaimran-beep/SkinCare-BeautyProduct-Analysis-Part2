@@ -1,0 +1,5 @@
+strategy,expected_revenue,expected_roas,within_constraints
+Current mix,3601879.499774755,3.601879499774755,True
+Equal split,3235630.8529391745,3.2356308529391744,True
+Proportional to ROAS,4068635.2029853757,4.068635202985376,False
+Optimised (recommended),4074954.715732031,4.074954715732031,True
